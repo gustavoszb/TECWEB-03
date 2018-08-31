@@ -1,0 +1,30 @@
+.FormatacaoGeral {
+	font-family: Arial; 
+	font-size: 11pt;
+}
+
+.FormatacaoTitulo {
+	text-align: center; 
+	color: red; 
+	font-size: 18pt; 
+	font-style: italic;
+	font-weight: 700;
+	text-decoration: underline;
+}
+
+.FormatacaoTagIntroducao {
+	font-size: 13.9pt;
+	font-weight: 700;
+}
+
+.FormatacaoTPrimeiraPalavra {
+	font-weight: 700;
+}
+
+.fontred {
+color: red;
+}
+	
+.fontlime{
+color: lime;
+}
